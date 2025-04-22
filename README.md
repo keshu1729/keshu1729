@@ -2,6 +2,12 @@
 
 # 💫 About Me:
 B.Tech in Electrical Engineering | Minor in Computer Science<br>Indian Institute of Technology Madras
+AutoMailerX: Android app to automate email scheduling and tracking. Built with Java, backend logic, and real-time UI.
+
+Sudoku Pro: High-performance JavaScript + Java web solver that cracks any sudoku puzzle in <1s.
+
+POMDP Multi-Agent System: Final year B.Tech project modeling distributed repair systems using probabilistic rollout strategies.
+
 
 
 ## 🌐 Socials:

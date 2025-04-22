@@ -1,12 +1,20 @@
 ## Hi there 👋I am Keshaw Choudhary
 
 # 💫 About Me:
-B.Tech in Electrical Engineering | Minor in Computer Science<br>Indian Institute of Technology Madras <br>
-AutoMailerX: Android app to automate email scheduling and tracking. Built with Java, backend logic, and real-time UI.
+👋 Hi! I'm Keshaw — a final-year B.Tech student at IIT Madras majoring in Electrical Engineering with a Minor in Computer Science.  
 
-Sudoku Pro: High-performance JavaScript + Java web solver that cracks any sudoku puzzle in <1s.
+💻 I build scalable systems, dashboards, and full-stack apps using Python, Java, SQL, and modern web tools.  
 
-POMDP Multi-Agent System: Final year B.Tech project modeling distributed repair systems using probabilistic rollout strategies.
+🚀 LeetCode rating: 1991 (Top 2%) | Love solving problems & optimizing code.  
+
+🛠️ Projects: AutoMailerX, Sudoku Pro, Bunny Run, Multi-Agent Repair System (POMDP).  
+
+📈 Previously @ Axis Bank BIU (Data/BI Intern) | Freelance Developer @ K3D Media  
+
+🌱 Currently learning: system design, distributed architecture & fintech infrastructure.  
+
+📬 Let’s connect! → [LinkedIn](https://linkedin.com/in/choudharykeshaw1729)
+
 
 
 

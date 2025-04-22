@@ -1,7 +1,7 @@
 ## Hi there 👋I am Keshaw Choudhary
 
 # 💫 About Me:
-B.Tech in Electrical Engineering | Minor in Computer Science<br>Indian Institute of Technology Madras
+B.Tech in Electrical Engineering | Minor in Computer Science<br>Indian Institute of Technology Madras <br>
 AutoMailerX: Android app to automate email scheduling and tracking. Built with Java, backend logic, and real-time UI.
 
 Sudoku Pro: High-performance JavaScript + Java web solver that cracks any sudoku puzzle in <1s.
